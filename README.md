@@ -145,4 +145,5 @@ testdir
 
 Please ensure tests pass (`cargo test`) and code is formatted (`cargo fmt`).
 
+![스크린샷 2025-05-29 022856](https://github.com/user-attachments/assets/3ed985e3-a600-4256-ae88-ea887ad9b6c8)
 
